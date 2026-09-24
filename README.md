@@ -1,6 +1,6 @@
 # 我，你，他｜物件與故事
 
-[開啟網站](https://mathew0315.github.io/Graduation_project_mkck/)
+[物件百科](https://mathew0315.github.io/Graduation_project_mkck/) · [故事頁面](https://mathew0315.github.io/Graduation_project_mkck/story.html?version=b)
 
 2026-09-24 修訂：依本機 Unity 專案的場景、Prefab、資源與程式，整理 43 個物件、場景與互動項目，以及 44 組關係。每項分成「遊戲表示」與「故事表示」，附可展開的專案依據。
 
@@ -16,8 +16,13 @@
 
 瀏覽器草稿不會自動同步到 GitHub，也不是多人即時共編。網頁修改不會自動回寫 Excel。
 
+## 故事閱讀
+
+故事頁提供 A「遊玩流程」與 B「心境對照」，各八個章節。可切換版本、按章節跳轉、調整字級、複製目前章節連結，並查閱相關物件。
+
 ## 檔案
 
+- [兩版故事潤色稿](docs/story.md)
 - [Excel：物件對照與物件關係](docs/我你他_物件關係_遊戲與故事0923.xlsx)
 - [文字版](docs/我你他_物件關係_遊戲與故事0923.md)
 
